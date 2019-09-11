@@ -4,7 +4,7 @@ PyLadies LA hosted a **[CFP Tutorial](https://www.meetup.com/Pyladies-LA/events/
 
 ## The Talks
 
-1. #### CFP Secrets || (**[Slides](https://docs.google.com/presentation/d/123_X5LWiWXyrwy6-glP-UYCXWFdHrrIyHdyScMrljqo/edit#slide=id.p9)**)
+1. #### CFP Secrets || (**[Slides](https://michellelynneb-presentations.s3-us-west-1.amazonaws.com/cfp_tell_all/cfp_tell_all_deck_michellelynneb.pdf)**)
 
 Presented by [Michelle Brenner](http://www.michellebrenner.com/) and [Annie Flippo](https://www.linkedin.com/in/acflippo/)
 
